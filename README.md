@@ -1,7 +1,5 @@
 # Terrible-FizzBuzz
 
-![Github licence](https://img.shields.io/badge/license-MIT-blue)
-
 ## Description
 
 Have you ever written a FizzBuzz? Have you done it efficiently, in one line? Something like `for (let i = 1; i <= 100; i++) console.log((i % 3 ? "" : "Fizz") + (i % 5 ? "" : "Buzz") || i);`? Why do it so well!? What are you, a nerd?
